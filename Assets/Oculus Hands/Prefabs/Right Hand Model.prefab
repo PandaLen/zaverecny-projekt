@@ -957,6 +957,19 @@ MonoBehaviour:
       m_SingletonActionBindings: []
       m_Flags: 0
     m_Reference: {fileID: 0}
+  gripAnimationAction:
+    m_UseReference: 0
+    m_Action:
+      m_Name: Grip Animation
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 022c9dcf-881a-4afe-a16e-216a486d7d20
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: 0}
+  handAnimator: {fileID: 0}
 --- !u!1 &5686134208185362932
 GameObject:
   m_ObjectHideFlags: 0
