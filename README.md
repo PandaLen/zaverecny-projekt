@@ -1,5 +1,6 @@
 # Závěrečný projekt
 Autor: Lukáš Kanovský
+Spolupráce: Michaela Říčná
 
 ## Cíle:
 - Vytvořit aplikaci v unity do virtuání reality
