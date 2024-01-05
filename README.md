@@ -23,6 +23,7 @@ Spolupráce: Michaela Říčná
 - [How to make a VR game]
 - [ProBuilder Building Structures with Interior and Exterior]
 - [ProBuilder Unity Tutorials]
+- [Introduction to VR in Unity - PART 8 : SNAP ZONE]
 
 
 [Unity]:https://unity.com/
@@ -33,3 +34,4 @@ Spolupráce: Michaela Říčná
 [ProGrids]:https://docs.unity3d.com/Packages/com.unity.progrids@3.0/manual/index.html
 [ProBuilder Building Structures with Interior and Exterior]:https://www.youtube.com/watch?v=CBa_opm3_GM
 [ProBuilder Unity Tutorials]:https://www.youtube.com/playlist?list=PLs_yJ-RML1YeM2KbHbVKh50CkwINm-biV
+[Introduction to VR in Unity - PART 8 : SNAP ZONE]:https://www.youtube.com/watch?v=AWNhsSB6x9M
