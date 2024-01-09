@@ -11,7 +11,7 @@ Autor: Lukáš Kanovský Spolupráce: Michaela Říčná
 
 ## Poděkování:
 - Michaela Říčná - 3D modely
-- Beáta Muchová - Obrazy ve třídě
+- Beáta Muchová - Obrazy ve třídě, uživatelské rozhraní, logo
   
 ## Použité technologie:
 - [Unity] - Game engine na tvorbu 3D i 2D aplikací
