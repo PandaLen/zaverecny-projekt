@@ -1,20 +1,21 @@
 # Závěrečný projekt
-Autor: Lukáš Kanovský
-Spolupráce: Michaela Říčná
+Autor: Lukáš Kanovský Spolupráce: Michaela Říčná
 
 ## Cíle:
 - Vytvořit aplikaci v unity do virtuání reality
 - Navrhnout způsob výběru učebny
 - Udělat učebny, místnosti ze školy:
     - Učebny odborných předmětů
-    - Neodborných předmětů (Menší priorita)
 - Vymodelovat objekty, se kterými se pracuje v hodinách:
-    - Udělat objekty interaktivní
-- Sepsat popisy předmětů a objektů
+- Udělat interaktivní "hru"
 
+## Poděkování:
+- Michaela Říčná - 3D modely
+- Beáta Muchová - Obrazy ve třídě
+  
 ## Použité technologie:
 - [Unity] - Game engine na tvorbu 3D i 2D aplikací
-- [Unity XR toolkit] - Toolkit pro práci s VR
+- [Unity XR Toolkit] - Toolkit pro práci s VR
 - [Blender] - Program pro tvorbu 3D modelů
 - [ProBuilder] - Package v Unity pro modelování a vytváření map, herních úrovní
 - [ProGrids] - Rozšíření pro ProBuilder na přichytávání objektů v prostoru k mřížce
@@ -24,7 +25,7 @@ Spolupráce: Michaela Říčná
 - [ProBuilder Building Structures with Interior and Exterior]
 - [ProBuilder Unity Tutorials]
 - [Introduction to VR in Unity - PART 8 : SNAP ZONE]
-
+- [How to make a Hand Menu - VR Tutorial]
 
 [Unity]:https://unity.com/
 [How to make a VR game]:https://www.youtube.com/playlist?list=PLpEoiloH-4eP-OKItF8XNJ8y8e1asOJud
@@ -35,3 +36,4 @@ Spolupráce: Michaela Říčná
 [ProBuilder Building Structures with Interior and Exterior]:https://www.youtube.com/watch?v=CBa_opm3_GM
 [ProBuilder Unity Tutorials]:https://www.youtube.com/playlist?list=PLs_yJ-RML1YeM2KbHbVKh50CkwINm-biV
 [Introduction to VR in Unity - PART 8 : SNAP ZONE]:https://www.youtube.com/watch?v=AWNhsSB6x9M
+[How to make a Hand Menu - VR Tutorial]:https://www.youtube.com/watch?v=6PSLfRsN89g
