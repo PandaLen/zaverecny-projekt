@@ -10,6 +10,7 @@ TagManager:
   - cpu
   - gpu
   - motherboard
+  - cooler
   layers:
   - Default
   - TransparentFX
