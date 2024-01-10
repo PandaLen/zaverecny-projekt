@@ -1,4 +1,8 @@
 # Závěrečný projekt
+
+![Logo](https://i.imgur.com/zSexFfE.png)
+
+
 Autor: Lukáš Kanovský Spolupráce: Michaela Říčná
 
 ## Cíle:
