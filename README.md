@@ -5,6 +5,10 @@
 
 Autor: Lukáš Kanovský Spolupráce: Michaela Říčná
 
+## Poděkování:
+- Michaela Říčná - 3D modely
+- Beáta Muchová - Obrazy ve třídě, uživatelské rozhraní, logo
+
 ## Cíle:
 - Vytvořit aplikaci v unity do virtuání reality
 - Navrhnout způsob výběru učebny
@@ -12,10 +16,6 @@ Autor: Lukáš Kanovský Spolupráce: Michaela Říčná
     - Učebny odborných předmětů
 - Vymodelovat objekty, se kterými se pracuje v hodinách:
 - Udělat interaktivní "hru"
-
-## Poděkování:
-- Michaela Říčná - 3D modely
-- Beáta Muchová - Obrazy ve třídě, uživatelské rozhraní, logo
   
 ## Použité technologie:
 - [Unity] - Game engine na tvorbu 3D i 2D aplikací
