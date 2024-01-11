@@ -14,7 +14,7 @@ Autor: Lukáš Kanovský Spolupráce: Michaela Říčná
 - Navrhnout způsob výběru učebny
 - Udělat učebny, místnosti ze školy:
     - Učebny odborných předmětů
-- Vymodelovat objekty, se kterými se pracuje v hodinách:
+- Vymodelovat objekty, se kterými se pracuje v hodinách
 - Udělat interaktivní "hru"
   
 ## Použité technologie:
