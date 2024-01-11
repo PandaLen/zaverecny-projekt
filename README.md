@@ -1,4 +1,4 @@
-# Závěrečný projekt
+# StrojkaVR
 
 ![Logo](https://i.imgur.com/zSexFfE.png)
 
