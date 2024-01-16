@@ -1,0 +1,31 @@
+\babel@toc {czech}{}\relax 
+\contentsline {chapter}{Úvod}{3}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Virtuální realita}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Co je to virtuální realita}{5}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Využití virtuální reality}{5}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Typy virtuální reality}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Nízká úroveň virtuální reality}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Vysoká úroveň virtuální reality}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Pokročilá virtuální realita}{6}{subsection.1.3.3}%
+\contentsline {chapter}{\numberline {2}Aplikace v Unity}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Meta Quest 2}{7}{section.2.1}%
+\contentsline {subsubsection}{Výhody:}{7}{section.2.1}%
+\contentsline {subsubsection}{Nevýhody:}{7}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Přidávání vlastních aplikací do Meta Quest 2:}{8}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Struktura projektu}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Nastavení projektu}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Tvorba místnosti}{10}{section.2.4}%
+\contentsline {subsubsection}{ProBuilder}{10}{section.2.4}%
+\contentsline {subsubsection}{ProGrids}{10}{figure.caption.8}%
+\contentsline {subsubsection}{Místnost}{11}{figure.caption.9}%
+\contentsline {section}{\numberline {2.5}Pohyb a interakce}{12}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Pohyb}{12}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Interakce}{12}{subsection.2.5.2}%
+\contentsline {subsubsection}{Ruce}{12}{subsection.2.5.2}%
+\contentsline {subsubsection}{Objekty}{13}{lstnumber.2.1.15}%
+\contentsline {section}{\numberline {2.6}Uživatelské menu}{14}{section.2.6}%
+\contentsline {subsubsection}{Zobrazení pohledem}{14}{section.2.6}%
+\contentsline {subsubsection}{Animace zobrazení a schování menu}{14}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Sestavení počítače}{15}{section.2.7}%
+\contentsline {chapter}{Závěr}{19}{chapter*.17}%
+\contentsline {chapter}{Seznam použitých informačních zdrojů}{21}{chapter*.18}%
